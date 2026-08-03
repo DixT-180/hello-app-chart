@@ -3,5 +3,7 @@ image:
   tag: "dde40d3"
 replicaCount: 1
 service:
+  type: NodePort
   port: 80
   targetPort: 8085
+  nodePort: 30080
