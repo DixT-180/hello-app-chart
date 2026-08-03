@@ -1,6 +1,6 @@
 image:
   repository: dikshyant180/pipeline-project
-  tag: "initial"
+  tag: "dde40d3"
 replicaCount: 1
 service:
   port: 80
