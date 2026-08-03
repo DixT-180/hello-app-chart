@@ -1,5 +1,5 @@
 image:
-  repository: dikshyant180/pipeline-project
+  repository: dikshyant180/hello-app
   tag: "dde40d3"
 replicaCount: 1
 service:
