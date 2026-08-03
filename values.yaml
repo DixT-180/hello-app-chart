@@ -1,6 +1,6 @@
 image:
   repository: dikshyant180/hello-app
-  tag: "fdeea4b"
+  tag: "441a5cf"
 replicaCount: 1
 service:
   port: 80
