@@ -1,0 +1,7 @@
+image:
+  repository: yourdockerhubuser/hello-app
+  tag: "initial"
+replicaCount: 1
+service:
+  port: 80
+  targetPort: 8080
