@@ -1,11 +1,10 @@
 image:
   repository: dikshyant180/hello-app
-  tag: "4268599"
+  tag: "fdeea4b"
 replicaCount: 1
 service:
   port: 80
   targetPort: 8085
-
 ingress:
   enabled: true
   host: hello.local
