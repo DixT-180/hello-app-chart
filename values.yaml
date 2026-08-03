@@ -1,5 +1,5 @@
 image:
-  repository: yourdockerhubuser/hello-app
+  repository: dikshyant180/pipeline-project
   tag: "initial"
 replicaCount: 1
 service:
