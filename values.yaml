@@ -3,7 +3,9 @@ image:
   tag: "4268599"
 replicaCount: 1
 service:
-  type: NodePort
   port: 80
   targetPort: 8085
-  nodePort: 30080
+
+ingress:
+  enabled: true
+  host: hello.local
