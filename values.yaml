@@ -1,6 +1,6 @@
 image:
   repository: dikshyant180/hello-app
-  tag: "dde40d3"
+  tag: "4268599"
 replicaCount: 1
 service:
   type: NodePort
